@@ -1,0 +1,11 @@
+span{
+    color: red;
+}
+#submit{
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    margin-left: 10%;
+}
